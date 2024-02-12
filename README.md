@@ -6,7 +6,7 @@
 
 
 ## Instructions
-[Uploading SortingVisualizer…]() or Clone this Repository in your Local Environment
+1. [Uploading SortingVisualizer…]() or Clone this Repository in your Local Environment
 
 2. Download and install [`Python3`](https://www.python.org/downloads/)
 
